@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vansmrnv
 - 👀 I’m interested in Data Science and Finance
 - 🌱 I’m currently learning R programming language
-- 💞️ I’m looking for an intership in a progressive company
 - 📫 Reach me through vansmrnv05@gmail.com
 
 <!---
