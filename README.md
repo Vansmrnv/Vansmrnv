@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vansmrnv
-- 👀 I’m interested in Data Science and Finance
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Creating!
+- 🌱 I’m currently learning Front-end
 - 📫 Reach me through vansmrnv05@gmail.com
 
 <!---
