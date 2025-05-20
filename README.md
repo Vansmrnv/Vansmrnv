@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vansmrnv
 - 👀 I’m interested in Creating!
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Front-end web development
 - 📫 Reach me through vansmrnv05@gmail.com
 
 <!---
